@@ -17,7 +17,7 @@ I'm a NOC Engineer passionate about building reliable networks and automating th
 - 🌱 **Learning:** Ansible for network automation and deepening my Python skills.
 - 👯 **Looking to collaborate on:** Open-source network monitoring tools or Python scripts for network engineers.
 - 💬 **Ask me about:** Network Monitoring (Zabbix, LibreNMS), Python Scripting, or ISP Operations.
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/your-profile-link) | [Email](mailto:your.email@domain.com)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/rakib-ahmed-shikder/) | [Email](mailto:rakibahmedshikder18@gmail.com)
 - ⚡ **Fun fact:** I can troubleshoot a network issue while explaining it in simple terms to a client!
 
 ---
@@ -54,7 +54,7 @@ I'm a NOC Engineer passionate about building reliable networks and automating th
 
 ## 🌍 Let's Connect!
 
-<a href="https://www.linkedin.com/in/your-profile-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/rakib-ahmed-shikder/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 
